@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp"
+    tools:context=".Next"
+    android:background="@drawable/bgg">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:id="@+id/next_txt"
+            android:textSize="30sp"
+            android:textAppearance="@color/colorAccent"
+            android:textStyle="italic"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+           />
+    </ScrollView>
+
+</LinearLayout>

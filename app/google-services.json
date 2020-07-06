@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "729495734696",
+    "firebase_url": "https://e-book-eed92.firebaseio.com",
+    "project_id": "e-book-eed92",
+    "storage_bucket": "e-book-eed92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729495734696:android:39fbf5529c4b5615d5759d",
+        "android_client_info": {
+          "package_name": "com.example.e_book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729495734696-u1v3h1dmrdh8rdlkng5cvgmbb04e7ne7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc0Ue17daOY74INPd5Lf3gdSuduwGdKE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729495734696-u1v3h1dmrdh8rdlkng5cvgmbb04e7ne7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
